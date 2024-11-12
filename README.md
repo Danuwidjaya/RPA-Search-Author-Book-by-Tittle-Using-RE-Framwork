@@ -1,7 +1,7 @@
 ### Documentation is included in the Documentation folder ###
 
 
-### REFrameWork Template ###
+### RE FrameWork  ###
 **Robotic Enterprise Framework**
 
 * Built on top of *Transactional Business Process* template
